@@ -1,3 +1,5 @@
 uno
 truco
 banco imobiliario
+jogo da vida
+detetive
